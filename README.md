@@ -3,6 +3,7 @@
 Hi, I am Aathithya Jegatheesan <br />
 I am a:<br />
 -🧑🏾‍💻 Competitve Programmer<br />
+-🏾‍💻 Mobile & Web Dev<br />
 <br />
 
 
