@@ -6,6 +6,8 @@ I'm currently studying at the School of Science and Technology in Singapore, del
 - 📝 **AttendINC**: An efficient attendance system
 - 🌱 **ASPA Project**: A platform for Doctors!
 - 🐟 **FishML**: Using ML and Image Processing to detect fish illnesses, aimed at reducing fatality rates due to parasites and diseases
+- ➕ **MathX**: Educational platform for students to enhance math skills
+- 🔬 **Sci Research Projects**: Various scientific research initiatives
 
 ### 🌐 Let's Connect:
 - 📌 [LinkedIn](https://www.linkedin.com/in/aathithya-j)
