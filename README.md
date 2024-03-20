@@ -2,14 +2,6 @@
 
 I'm currently studying at the School of Science and Technology in Singapore, delving deep into the world of technology and innovation. Here's a glimpse into what keeps me buzzing:
 
-### 🌟 My Passion:
-- 💻 Avid Software Developer
-- 🚀 Start-Up Enthusiast
-
-### 💡 Turning Ideas into Reality:
-- 🌱 Eager to launch my own start-up
-- 🎯 Goal-driven with a focus on innovation and creativity
-
 ### 🛠️ Projects I've Worked On:
 - 📝 **AttendINC**: An efficient attendance system
 - 🌱 **ASPA Project**: A platform for Doctors!
