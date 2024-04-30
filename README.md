@@ -9,6 +9,20 @@ I'm currently studying at the School of Science and Technology in Singapore, del
 - ➕ **MathX**: Educational platform for students to enhance math skills
 - 🔬 **Sci Research Projects**: Various scientific research initiatives
 
+### 🏆 Achievements:
+- 🥇 **SST Inventive Mind Award**
+- 🚀 **FLL 3rd in Championship and Robot Run**
+- 📚 **1st in MakeX Singapore**
+
+### 📰 Publications:
+- 📝 Piezeo Electricity 
+- 📝 DVD
+- 📝 ISCs
+
+### 🌟 Skills:
+- 💻 Programming Languages: C++, Python
+- 🛠️ Tools & Technologies: React, Swift
+
 ### 🌐 Let's Connect:
 - 📌 [LinkedIn](https://www.linkedin.com/in/aathithya-j)
 - 🌐 [Website](https://aathithya.vercel.app)
