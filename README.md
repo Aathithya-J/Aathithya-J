@@ -11,7 +11,8 @@ I'm currently studying at the School of Science and Technology in Singapore, del
 
 ### 🏆 Achievements:
 - 🥇 **SST Inventive Mind Award**
-- 🚀 **FLL 3rd in Championship and Robot Run**
+- 🚀 **FLL 3rd in Championship and Robot Run 2024**
+- 🧪 **Partiicpant @ the International Students Science Fair, Brisbane**
 - 📚 **1st in MakeX Singapore**
 
 ### 🌐 Let's Connect:
