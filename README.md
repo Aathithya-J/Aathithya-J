@@ -9,13 +9,7 @@ I'm currently studying at the School of Science and Technology in Singapore, del
 - ➕ **MathX**: Educational platform for students to enhance math skills
 - 🔬 **Sci Research Projects**: Various scientific research initiatives
 
-### 🏆 Achievements:
-- 🥇 **SST Inventive Mind Award**
-- 🚀 **FLL 3rd in Championship and Robot Run 2024**
-- 🧪 **Partiicpant @ the International Students Science Fair, Brisbane**
-- 📚 **1st in MakeX Singapore**
-
 ### 🌐 Let's Connect:
 - 📌 [LinkedIn](https://www.linkedin.com/in/aathithya-j)
-- 🌐 [Website](https://aathithya.vercel.app)
+- 🌐 [Website](https://aathithya.me)
 - 📚 [Instagram](https://www.instagram.com/aathithya.j/)
